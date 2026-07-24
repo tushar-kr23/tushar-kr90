@@ -10,8 +10,7 @@
 Passionate about AI, Machine Learning & Software Development 🚀
 </p>
 
-
-
+<p align="center">
 <a href="https://www.linkedin.com/in/tushar-kumar-746996336/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
